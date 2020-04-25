@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-clock"]=this["webpackJsonpreact-clock"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n.n(c),o=n(2),a=n.n(o);n(8);var l=function(){return r.a.createElement("h1",null,"React Clock")};a.a.render(r.a.createElement(l,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.b5398e30.chunk.js.map
