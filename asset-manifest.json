@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-clock/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-clock/static/js/main.54303502.chunk.js",
+    "main.js.map": "/react-clock/static/js/main.54303502.chunk.js.map",
+    "runtime-main.js": "/react-clock/static/js/runtime-main.dd6316e1.js",
+    "runtime-main.js.map": "/react-clock/static/js/runtime-main.dd6316e1.js.map",
+    "static/js/2.259b1fd6.chunk.js": "/react-clock/static/js/2.259b1fd6.chunk.js",
+    "static/js/2.259b1fd6.chunk.js.map": "/react-clock/static/js/2.259b1fd6.chunk.js.map",
+    "index.html": "/react-clock/index.html",
+    "precache-manifest.766adf3dd11c680d587302ae5a81317e.js": "/react-clock/precache-manifest.766adf3dd11c680d587302ae5a81317e.js",
+    "service-worker.js": "/react-clock/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-clock/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.259b1fd6.chunk.js.LICENSE.txt": "/react-clock/static/js/2.259b1fd6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-clock/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd6316e1.js",
+    "static/js/2.259b1fd6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.54303502.chunk.js"
+  ]
+}
